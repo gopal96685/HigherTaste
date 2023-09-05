@@ -1,0 +1,72 @@
+.navbar-logo {
+  font-family: 'Supermercado One', cursive;
+  font-size: 20px;
+  color:  #f5938c;
+}
+
+
+.container {
+  padding: 3% 15%;
+  font-family: sans-serif;
+}
+
+#title h1 {
+  color: #f5938c;
+  font-family: 'Montserrat, sans-serif';
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 900;
+}
+
+
+p {
+
+}
+
+
+#title {
+  background-color: #ffe8e8;
+  color: #f5938c;
+
+}
+
+#features{
+  background-color: #ffe8e8;
+}
+
+.btn btn-dark {
+  padding-left: 15px;
+}
+
+#mycarousel {
+  height: 400px;
+  width:  400px;
+  margin: 0 auto 0 auto;
+}
+#testimonials {
+  background-color: #ffe8e8;
+}
+
+#testimonials h5 {
+  background-color: #f5938c;
+}
+
+#testimonials p {
+  background-color: #ffe8e8;
+}
+
+
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.container-footer {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
