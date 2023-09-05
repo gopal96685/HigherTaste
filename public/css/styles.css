@@ -1,0 +1,311 @@
+.navbar-logo {
+  font-family: 'Supermercado One', cursive;
+  font-size: 20px;
+  color:  #f5938c;
+}
+
+
+.container {
+  padding: 3% 15%;
+  font-family: sans-serif;
+}
+
+#title h1 {
+  color: #f5938c;
+  font-family: 'Montserrat, sans-serif';
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 900;
+}
+
+
+p {
+
+}
+
+
+#title {
+  background-color: #ffe8e8;
+  color: #f5938c;
+
+}
+
+#features{
+  background-color: #ffe8e8;
+}
+
+.btn btn-dark {
+  padding-left: 15px;
+}
+
+#mycarousel {
+  height: 400px;
+  width:  400px;
+  margin: 0 auto 0 auto;
+}
+#testimonials {
+  background-color: #ffe8e8;
+}
+
+#testimonials h5 {
+  background-color: #f5938c;
+}
+
+#testimonials p {
+  background-color: #ffe8e8;
+}
+
+.border-box {
+box-sizing: content-box;
+width: 30%;
+border: solid #5B6DCD 10px;
+padding: 5px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.container-footer {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.text-center {
+        height: 100%;
+        display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+
+
+.progress-u {
+  box-shadow: none;
+}
+
+.progress-u .progress-bar {
+  box-shadow: none;
+}
+
+/*progress-bar (sizes)*/
+.progress-lg {
+  height: 25px;
+}
+.progress-lg p {
+  padding-top: 3px;
+}
+
+.progress-sm {
+  height: 12px;
+}
+
+.progress-xs {
+  height: 7px;
+}
+
+.progress-xxs {
+  height: 3px;
+}
+
+/*progress-bar (colors)*/
+.progress {
+  background: #e5e5e5;
+}
+
+.progress-bar-u {
+  background: #72c02c;
+}
+
+.progress-bar-blue {
+  background: #3498db;
+}
+
+.progress-bar-orange {
+  background: #e67e22;
+}
+
+.progress-bar-red {
+  background: #e74c3c;
+}
+
+.progress-bar-purple {
+  background: #9b6bcc;
+}
+
+.progress-bar-aqua {
+  background: #27d7e7;
+}
+
+.progress-bar-brown {
+  background: #9c8061;
+}
+
+.progress-bar-dark-blue {
+  background: #4765a0;
+}
+
+.progress-bar-light-green {
+  background: #79d5b3;
+}
+
+.progress-bar-dark {
+  background: #555;
+}
+/*Deviders*/
+.devider.devider-dotted {
+  border-top: 2px dotted #eee;
+}
+.devider.devider-dashed {
+  border-top: 2px dashed #eee;
+}
+
+.devider.devider-db {
+  height: 5px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.devider.devider-db-dashed {
+  height: 5px;
+  border-top: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
+}
+.devider.devider-db-dotted {
+  height: 5px;
+  border-top: 1px dotted #ddd;
+  border-bottom: 1px dotted #ddd;
+}
+
+
+
+label.radio {
+    cursor: pointer
+}
+
+label.radio input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    pointer-events: none
+}
+
+label.radio span {
+    padding: 4px 0px;
+    border: 1px solid red;
+    display: inline-block;
+    color: red;
+    width: 100px;
+    text-align: center;
+    border-radius: 3px;
+    margin-top: 7px;
+    text-transform: uppercase
+}
+
+label.radio input:checked+span {
+    border-color: red;
+    background-color: red;
+    color: #fff
+}
+
+.ans {
+    margin-left: 36px !important
+}
+
+.btn:focus {
+    outline: 0 !important;
+    box-shadow: none !important
+}
+
+.btn:active {
+    outline: 0 !important;
+    box-shadow: none !important
+}
+
+
+
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container-game {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn-game {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
